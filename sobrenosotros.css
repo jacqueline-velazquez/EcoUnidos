@@ -1,0 +1,19 @@
+.texto1{
+    margin: 60px;
+    background-color: #ffffffda;
+    width: 650px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 0 50px;
+    margin-top: 85px;
+    margin-left: 250px;
+}
+.section1{
+    background: url('img/fondo-sn.avif') no-repeat center center fixed;
+    background-size: cover;
+    padding: 1px;
+}
